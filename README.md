@@ -1,6 +1,6 @@
 # rapidllm manifesto
 
-Large language models are far more than chatbots – they’re universal text engines capable of automating every task imaginable. Yet current tools squander this potential. They trap LLMs behind decorative interfaces and isolated applications, burying their power under layers of abstraction. The real crisis? A crippling lack of integration.
+Large language models are far more than chatbots – they’re universal text engines capable of automating every task imaginable. Yet current tools squander this potential. They trap LLMs behind decorative interfaces and isolated applications, burying their power under layers of abstraction.
 
 Today's AI tools exist as fragmented islands: one for coding, another for writing, a third for conversation. Each reinvents the same core function—text manipulation—while remaining disconnected and inflexible. This forces users into narrow workflows, creating barriers instead of bridges between systems.
 
