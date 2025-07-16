@@ -9,3 +9,6 @@ RapidLLM shatters this paradigm. We reject bloated, single-purpose applications 
 Create custom AI tools that integrate seamlessly into your workflow – in minutes, not months. "Rapid" signifies instant solution-building, not inference speed. We focus solely on crafting an open, compatible interface that plugs directly into your software ecosystem, transforming text into action at terminal velocity.
 
 See: [rlm command](https://github.com/BritishTeapot/rlm)
+
+Copyright (C) 2025 Fedir Kovalov.
+All rights reserved.
