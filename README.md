@@ -1,4 +1,4 @@
-# rapidllm manifesto
+# RapidLLM manifesto
 
 Large language models are far more than chatbots – they’re universal text engines capable of automating every task imaginable. Yet current tools squander this potential. They trap LLMs behind decorative interfaces and isolated applications, burying their power under layers of abstraction.
 
@@ -8,7 +8,10 @@ RapidLLM shatters this paradigm. We reject bloated, single-purpose applications 
 
 Create custom AI tools that integrate seamlessly into your workflow - in minutes, not months. "Rapid" signifies instant solution-building, not inference speed. We focus solely on crafting an open, compatible interface that plugs directly into your software ecosystem, transforming text into action at terminal velocity.
 
-See: [rlm command](https://github.com/BritishTeapot/rlm)
+# RapidLLM suite
+
+* [rlm command](https://github.com/BritishTeapot/rlm)
+* more coming soon...
 
 Copyright (C) 2025 Fedir Kovalov.
 All rights reserved.
